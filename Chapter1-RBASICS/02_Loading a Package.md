@@ -8,4 +8,5 @@ Sample Code for Loading of package.
 library(ggplot2)
 ```
 
+![image](https://user-images.githubusercontent.com/84629235/191541020-73234095-a1bc-4ccf-99c3-b28db3b6bc52.png)
 
